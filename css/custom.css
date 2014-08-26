@@ -1,9 +1,10 @@
-.html
-background-color: #555555;
+body {
+    background-color: gray;
+}
 
-#ajaxinfo{
+#ajaxinfo {
 	position: relative;
 	padding: 10px;
 	background-color: orange;
-	color:	white;
+	color:	black;
 }
